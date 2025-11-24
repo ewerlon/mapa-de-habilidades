@@ -32,4 +32,4 @@ Clique no link abaixo para visualizar o documento:
 ---
 
 ## 👨‍💻 Autor
-Projeto desenvolvido por **Ewerlon** durante o bootcamp da DIO.
+Projeto desenvolvido por **Ewerlon Silva** durante o bootcamp da DIO.
