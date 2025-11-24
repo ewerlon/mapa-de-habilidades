@@ -1,22 +1,24 @@
-# 📌 Mapa de Habilidades - DIO
+# 🗺️ Mapa de Habilidades - DIO
 
-Este projeto faz parte do bootcamp da **Digital Innovation One (DIO)** e tem como objetivo organizar e apresentar um **mapa de habilidades** adquiridas ao longo da jornada.
-
----
-
-## 📖 Descrição
-O *Mapa de Habilidades* é um documento que reúne as principais competências desenvolvidas durante o curso, servindo como guia de aprendizado e referência para futuras oportunidades.
+![GitHub repo size](https://img.shields.io/github/repo-size/SEU_USUARIO/SEU_REPOSITORIO?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/SEU_USUARIO/SEU_REPOSITORIO?style=flat-square)
+![GitHub license](https://img.shields.io/github/license/SEU_USUARIO/SEU_REPOSITORIO?style=flat-square)
 
 ---
 
-## 📂 Estrutura do Projeto
-- `README.md` → Documentação principal do projeto  
+## 📖 Sobre o Projeto
+Este repositório faz parte do bootcamp da **Digital Innovation One (DIO)** e tem como objetivo organizar e apresentar um **Mapa de Habilidades** adquiridas ao longo da jornada.
+
+---
+
+## 📂 Estrutura
+- `README.md` → Documentação principal  
 - `docs/mapa_de_habilidades.pdf` → Arquivo PDF com o mapa completo  
 
 ---
 
 ## 📎 Acesso ao PDF
-Você pode visualizar o documento clicando no link abaixo:
+Clique no link abaixo para visualizar o documento:
 
 👉 [Mapa de Habilidades (PDF)](docs/mapa_de_habilidades.pdf)
 
