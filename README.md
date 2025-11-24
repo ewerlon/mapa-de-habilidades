@@ -1,9 +1,5 @@
 # 🗺️ Mapa de Habilidades - DIO
 
-![GitHub repo size](https://img.shields.io/github/repo-size/SEU_USUARIO/SEU_REPOSITORIO?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/SEU_USUARIO/SEU_REPOSITORIO?style=flat-square)
-![GitHub license](https://img.shields.io/github/license/SEU_USUARIO/SEU_REPOSITORIO?style=flat-square)
-
 ---
 
 ## 📖 Sobre o Projeto
