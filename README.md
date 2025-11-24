@@ -1,7 +1,5 @@
 # 🗺️ Mapa de Habilidades - DIO
 
----
-
 ## 📖 Sobre o Projeto
 Este repositório faz parte do bootcamp da **Digital Innovation One (DIO)** e tem como objetivo organizar e apresentar um **Mapa de Habilidades** adquiridas ao longo da jornada.
 
