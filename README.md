@@ -14,7 +14,7 @@ Este repositório faz parte do bootcamp da **Digital Innovation One (DIO)** e te
 ## 📎 Acesso ao PDF
 Clique no link abaixo para visualizar o documento:
 
-👉 [Mapa de Habilidades (PDF)](docs/mapa_de_habilidades.pdf)
+👉 https://github.com/ewerlon/mapa-de-habilidades/blob/main/c0407e78-b14d-4f8c-9ca1-b1e071148cd8.pdf
 
 ---
 
